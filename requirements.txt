@@ -72,7 +72,6 @@ sacrebleu==1.5.1
 sacremoses==0.0.43
 scikit-learn==0.24.1
 scipy==1.6.0
-sentencepiece==0.1.91
 six==1.15.0
 smmap==3.0.5
 tensorboard==2.4.1
