@@ -78,7 +78,6 @@ tensorboard==2.4.1
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
 tensorboardX==2.1
-tensorflow-gpu==2.5.0
 termcolor==1.1.0
 terminado==0.9.3
 threadpoolctl==2.1.0
